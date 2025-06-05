@@ -13,6 +13,8 @@
                     Click="ButtonOpenFile_OnClick"/>
         </StackPanel>
         
+        
+        
         <TextBlock x:Name="Output"/>
     </StackPanel>
 </Window>
